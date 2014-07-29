@@ -1,0 +1,4 @@
+manifesto
+=========
+
+Declaration of Truthyness
